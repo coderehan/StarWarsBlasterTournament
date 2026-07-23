@@ -203,3 +203,9 @@ app/src/main/res/xml/
    the UI maps to green / red / white.
 
 ---
+
+## Screenshots
+
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/e2af6c1f-9103-4550-8a64-74805c4e3c93" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/89db7820-aa8b-4883-a911-5e658a010832" />
+<img width=30% height=40% alt="Image" src="https://github.com/user-attachments/assets/d59a1262-71d6-4302-a59f-bb95c073afdf" />
