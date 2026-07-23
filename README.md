@@ -203,21 +203,3 @@ app/src/main/res/xml/
    the UI maps to green / red / white.
 
 ---
-
-## Setup
-
-1. Clone the repo.
-2. Open in Android Studio (Giraffe or newer recommended).
-3. Sync Gradle.
-4. Run on an emulator or device — no backend, API keys, or network setup required
-   besides internet access for loading player icon images.
-
----
-
-## Possible Future Improvements
-
-- Unit tests for `StandingsCalculator` and `PlayerMatchHistoryBuilder` (both are pure
-  functions with no Android dependencies, so they're trivial to test in isolation).
-- Swap `AssetJsonDataSource` for a remote data source without touching domain or
-  presentation, by adding a new `TournamentRepository` binding.
-- Player search/filter on the Points Table screen.
